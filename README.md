@@ -1,7 +1,7 @@
 # Todo list
 
 - [ ] Refractor forms to reduce duplication
-- [ ] Get rid of all warnings
+- [x] Get rid of all warnings
 - [ ] Add i18n
 - [ ] Refractor authentication to reduce duplication
 - [ ] Mark required form fields
